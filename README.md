@@ -1,3 +1,3 @@
 # Markdown Notes App
 
-Made using React, Firebase, and Typescript
+Made using React and Firebase
